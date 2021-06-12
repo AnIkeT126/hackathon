@@ -14,14 +14,12 @@ We made this app using HTML, CSS, and JavaScript for it was hard for us as begin
 ## Challenges we ran into
 The biggest challenge was that we were pro-beginners at this and every step was completed after spending a lot of time.
 
-## **Contributions are as follows:-**
-1. Aniket Mishra-**Entire Website** except the home page of our website.
-2. Dhruv Millu-Worked on the **home** page
-3.Paritosh J:- Worked on the **PPT** to deliver the idea which wasn't fully incorporated using the tools, and came up with the **initial idea**
-4. Kathir M:-Worked on the **PPT** to deliver the idea which wasn't fully incorporated using the tools.
 
 ## What we learned
 We learned a lot about OSS and how each passing day counts and how small steps taken lead to bigger and better results.
 
 ## What's next for Beaches and Blues
 Next, we plan to make this site fully functional with a broad range of benefits for our users and deploy it and make it open for contributions from around the world.
+ 
+ 
+ ## Click [**here**](https://aniket126.github.io/hackathon/) to check the site.
